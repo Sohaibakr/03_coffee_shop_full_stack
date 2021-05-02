@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="343dcf2d-42a1-46d3-80d8-dd437ed63f32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_artist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_artist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_venue.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_venue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_artist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_artist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_venue.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_venue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_trivia_api/starter/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/flaskr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/flaskr/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/test_flaskr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_trivia_api/starter/backend/test_flaskr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/components/FormView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_trivia_api/starter/frontend/src/components/FormView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/models.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1r3DzlXnMwiSDW7BnwWYTtQb6kf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="343dcf2d-42a1-46d3-80d8-dd437ed63f32" name="Default Changelist" comment="" />
+      <created>1618196143166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618196143166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1618196166978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618196166978" />
+  </component>
+</project>
